@@ -8,5 +8,6 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 @ComponentScan(basePackageClasses = ApolloMetaServiceConfig.class)
 public class ApolloMetaServiceConfig {
-
+  
 }
+
